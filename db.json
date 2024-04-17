@@ -1,0 +1,18 @@
+{
+    "hospitals": [
+      { "id": 1, "name": "Hospital A", "location": "City A", "rating": 4.5 },
+      { "id": 2, "name": "Hospital B", "location": "City B", "rating": 3.8 }
+    ],
+    "restaurants": [
+      { "id": 1, "name": "Restaurant X", "cuisine": "Italian", "location": "City A", "rating": 4.2 },
+      { "id": 2, "name": "Restaurant Y", "cuisine": "Japanese", "location": "City B", "rating": 4.0 }
+    ],
+    "beauty_spas": [
+      { "id": 1, "name": "Spa One", "location": "City A", "rating": 4.8 },
+      { "id": 2, "name": "Spa Two", "location": "City B", "rating": 4.5 }
+    ],
+    "salons": [
+      { "id": 1, "name": "Salon A", "location": "City A", "rating": 4.6 },
+      { "id": 2, "name": "Salon B", "location": "City B", "rating": 4.3 }
+    ]
+  }
